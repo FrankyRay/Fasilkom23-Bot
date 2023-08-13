@@ -1,0 +1,21 @@
+Fasilkom23 Info [v1.0]
+
+Mengingat gw membuat bot coba-coba yang cuman bisa "!halo", gw mendapat ide buat fitur bot ini. Oleh karena itu gw hapus apapun command yang berawalan "!" dengan command baru menggunakan "/". Command apa saja?
+
+1. /link
+Memunculkan link-link penting (seperti event dll.)
+2. /akun
+Memunculkan daftar akun media sosial yang penting
+3. /event [nama]
+** Untuk hari ini, gw cuman memberikan link google docs doank (capek serius). Untuk kedepannya, gw mencoba untuk mengerjakan.
+Memunculkan informasi tentang event sekarang/nanti. Memasukkan nama event akan memunculkan info lengkap. Nama itu opsional
+4. /help
+Memunculkan cara menggunakan bot ini.
+
+Untuk kedepannya, gw akan meng-update bot ini supaya bisa membantu kita (jika gw niat ya guys :D). Gw menerima saran dan masukan supaya bot ini bisa berkembang lebih bagus lagi.
+
+[UPDATE KECIL]
+Tambahan command "/okk"
+
+Sekian,
+FrankyRayMS

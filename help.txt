@@ -1,0 +1,16 @@
+Fasilkom23 Info [v1.0]
+
+Untuk menggunakan bot ini, cukup kirim command menggunakan "/".
+
+Command list:
+1. /link
+Memunculkan link-link penting (seperti event dll.)
+2. /akun
+Memunculkan daftar akun media sosial yang penting
+3. /event [nama]
+** Untuk hari ini, gw cuman memberikan link google docs doank (capek serius). Untuk kedepannya, gw mencoba untuk mengerjakan.
+Memunculkan informasi tentang event sekarang/nanti. Memasukkan nama event akan memunculkan info lengkap. Nama itu opsional
+4. /help
+Memunculkan cara menggunakan bot ini.
+5. /update
+Melihat perkembangan bot ini

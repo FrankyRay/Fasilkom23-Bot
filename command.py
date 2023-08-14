@@ -1,10 +1,11 @@
 import json
-from linebot.models import FlexContainer, BubbleContainer, BoxComponent, ImageComponent, TextComponent, ButtonComponent, URIAction
+from linebot.models import TextMessage, FlexContainer, BubbleContainer, BoxComponent, ImageComponent, TextComponent, ButtonComponent, URIAction
+from events.PSAF import PSAF
 
 class Command:
     @staticmethod
     def event(*args):
-        return "Untuk sementara ini, kalian bisa liat di docs.google.com/document/d/1aOgFa9rmb10GEpOpmjUVeTXoYX51tx91r8Pcj5-pGxY/edit?usp=sharing"
+        return True, "Untuk sementara ini, kalian bisa liat di docs.google.com/document/d/1aOgFa9rmb10GEpOpmjUVeTXoYX51tx91r8Pcj5-pGxY/edit?usp=sharing"
 
     @staticmethod
     def link(*args):
@@ -19,7 +20,7 @@ class Command:
             f"{i + 1}. {l['nama']}: \n{l['link'] if type(l['link']) is str else link_join(l['link'])}"
             for i, l in enumerate(data)])
 
-        return message
+        return True, message
 
     @staticmethod
     def akun(*args):
@@ -34,21 +35,21 @@ class Command:
             f"{i + 1}. {l['nama']}: \n{l['link']}"
             for i, l in enumerate(data)])
 
-        return message
+        return True, message
 
     @staticmethod
     def update(*args):
         with open("./update/recent.txt", "r") as f:
             data = f.read()
 
-        return data
+        return True, data
 
     @staticmethod
     def help(*args):
         with open("./help.txt", "r") as f:
             data = f.read()
 
-        return data
+        return True, data
     
     @staticmethod
     def okk(*args):
@@ -85,8 +86,12 @@ class Command:
 
         # FOOTER
         # Website
-        web = ButtonComponent(style="primary", height="sm", action=[URIAction(label="WEBSITE OKK UI", uri="https://okk.ui.ac.id/")])
-        book = ButtonComponent(style="secondary", height="sm", action=[URIAction(label="BOOKLET OKK UI", uri="https://drive.google.com/file/d/1hPsz5_hlXMeF8G5Kf8ImRC0UmbJewgi-/view")])
+        web = ButtonComponent(style="primary", height="sm", action=[URIAction(label="WEBSITE OKK", uri="https://okk.ui.ac.id/")])
+        book = ButtonComponent(style="secondary", height="sm", action=[URIAction(label="BOOKLET OKK", uri="https://drive.google.com/file/d/1hPsz5_hlXMeF8G5Kf8ImRC0UmbJewgi-/view")])
         footer = BoxComponent(layout="vertical", spacing="sm", flex=0, contents=[web, book])
 
-        return BubbleContainer(size="mega", hero=hero, body=body, footer=footer)
+        return True, BubbleContainer(size="mega", hero=hero, body=body, footer=footer)
+
+    @staticmethod
+    def psaf(*args):
+        return PSAF().get()

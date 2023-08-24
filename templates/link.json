@@ -1,0 +1,36 @@
+{
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "Link Website Penting\n",
+                "weight": "bold",
+                "size": "xl",
+                "wrap": true,
+                "contents": []
+            }
+        ]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": []
+    },
+    "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+            {
+                "type": "text",
+                "text": "Fasilkom '23 Bot ~ /link",
+                "color": "#999999FF",
+                "contents": []
+            }
+        ]
+    }
+}

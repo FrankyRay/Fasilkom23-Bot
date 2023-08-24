@@ -1,0 +1,65 @@
+{
+    "events": {
+        "whitelist": false,
+        "list": [
+        {
+            "id": "okk",
+            "nama": "Kelompok Mentoring OKK",
+            "link": "https://okk.ui.ac.id"
+        },
+        {
+            "id": "pmb",
+            "nama": "Kelompok Mentoring PMB",
+            "link": "https://ristek.link/MentoringPMBFasilkom23"
+        }
+        ]
+    },
+    "cs23": {
+        "whitelist": false,
+        "list": [
+        {
+            "id": "kegiatan",
+            "nama": "CS-UI 2023: Kalender Kegiatan",
+            "link": [
+            "calendar.google.com/calendar/u/5?cid=Y29tcHNjaXVpMjNAZ21haWwuY29t",
+            "calendar.google.com/calendar/embed?src=compsciui23%40gmail.com&ctz=Asia%2FJakarta"
+            ]
+        },
+        {
+            "id": "info",
+            "nama": "CS-UI 2023: Google Docs Info",
+            "link": "https://docs.google.com/document/d/1aOgFa9rmb10GEpOpmjUVeTXoYX51tx91r8Pcj5-pGxY/edit?usp=sharing"
+        },
+        {
+            "id": "drive",
+            "nama": "CS-UI 2023: Google Drive",
+            "link": "https://drive.google.com/drive/folders/1BmK426Mw0qxtXNTPZ4HDVTENfN2k24h6?usp=drive_link"
+        },
+        {
+            "id": "discord",
+            "nama": "CS-UI 2023: Discord",
+            "link": "https://discord.gg/dkqvkUVKWG"
+        }
+        ]
+    },
+    "ui": {
+        "whitelist": false,
+        "list": [
+        {
+            "id": "siakng",
+            "nama": "SIAK NG",
+            "link": "https://academic.ui.ac.id/main/Authentication/"
+        },
+        {
+            "id": "emas2",
+            "nama": "EMAS2 (OBM)",
+            "link": "https://emas2.ui.ac.id/"
+        },
+        {
+            "id": "beasiswa",
+            "nama": "Beasiswa UI",
+            "link": "https://beasiswa.ui.ac.id"
+        }
+        ]
+    }
+}

@@ -2,6 +2,8 @@ from linebot.models import TextSendMessage
 from commands.test import Test
 from commands.link import Link
 from commands.ping import Ping
+from commands.kelas import Kelas
+from commands.message import Message
 from commands.whitelist import Whitelist
 from lib.whitelist import get_whitelist
 from lib.profile import get_profile
@@ -11,7 +13,9 @@ class Command:
         "/link": Link(),
         "/ping": Ping(),
         "/test": Test(),
+        "/kelas": Kelas(),
         "/whitelist": Whitelist(),
+        "/message": Message(),
     }
 
     @classmethod
@@ -41,6 +45,6 @@ class Command:
 
         if (command_args[0] not in cls.commands) \
             or (cls.commands[command_args[0]].admin and profile.user_id not in get_whitelist()):
-            return [TextSendMessage(text=f"Command '{command_args[0]}' tidak ditemukan atau Anda tidak memiliki akses (tidak di-whitelist)")]
+            return [TextSendMessage(text=f"Command '{command_args[0]}' tidak ditemukan atau Anda tidak memiliki akses")]
         
         return cls.commands[command_args[0]].run(bot, event, *command_args)

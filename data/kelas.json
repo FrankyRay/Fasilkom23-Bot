@@ -1,0 +1,655 @@
+{
+    "DDP 1": {
+        "A": {
+            "Pengajar": [
+                "Dr. Fariz Darari"
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A2.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 08.00-09.40",
+                    "Ruang": "A2.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 13.30-15.10",
+                    "Ruang": "Lab A1.03 (Ged Baru)"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Ichlasul Affan, S.Kom., M.Kom.",
+                "Iis Afriyanti, S.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A2.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 10.00-11.40",
+                    "Ruang": "A2.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 15.30-17.10",
+                    "Ruang": "Lab A1.03 (Ged Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Drs. Lim Yohanes Stefanus M.Math., Ph.D."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 08.00-09.40",
+                    "Ruang": "A6.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 08.00-09.40",
+                    "Ruang": "A6.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 15.30-17.10",
+                    "Ruang": "Lab A1.01 + Lab A1.02 [Gabungan](Gd Baru)"
+                }
+            ]
+        },
+        "D": {
+            "Pengajar": [
+                "Syifa Nurhayati, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A5.18 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 10.00-11.40",
+                    "Ruang": "A6.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 15.30-17.10",
+                    "Ruang": "Lab A1.04 + Lab A3.02 [Gabungan](Gd. Baru)"
+                }
+            ]
+        },
+        "E": {
+            "Pengajar": [
+                "Iis Afriyanti, S.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A6.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 13.00-14.40",
+                    "Ruang": "A6.11 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 13.30-15.10",
+                    "Ruang": "Lab A1.01 + Lab A1.02 [Gabungan](Gd Baru)"
+                }
+            ]
+        },
+        "F": {
+            "Pengajar": [
+                "Imairi Eitiveni, S.Kom., M.Kom., Ph.D.",
+                "Syifa Nurhayati, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "29/08/2023 - 23/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A2.06 (Ged Baru) --- Lab Laptop"
+                },
+                {
+                    "Periode": "29/08/2023 - 23/12/2023",
+                    "Waktu": "Kamis, 13.00-14.40",
+                    "Ruang": "A2.06 (Ged Baru) --- Lab Laptop"
+                },
+                {
+                    "Periode": "23/12/2023 - 23/12/2023",
+                    "Waktu": "Jumat, 13.30-15.10",
+                    "Ruang": "Lab A1.04 + Lab A3.02 [Gabungan](Gd. Baru)"
+                }
+            ]
+        },
+        "G": {
+            "Pengajar": [
+                "Ichlasul Affan, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A2.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 13.00-14.40",
+                    "Ruang": "A2.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 15.30-17.10",
+                    "Ruang": "Lab.1101/1103 --- PC 46"
+                }
+            ]
+        },
+        "H": {
+            "Pengajar": [
+                "Alfan Farizki Wicaksono S.T., M.Sc., Ph.D."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A2.07 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 08.00-09.40",
+                    "Ruang": "A2.07 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 13.30-15.10",
+                    "Ruang": "Lab.1101/1103 --- PC 46"
+                }
+            ]
+        }
+    },
+    "MD 1": {
+        "A": {
+            "Pengajar": [
+                "Dr. Dinial Utami Nurul Qomariah, S.ST., M.Kom.",
+                "Ari Saptawijaya S.Kom., M.Sc., Ph.D."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 10.00-11.40",
+                    "Ruang": "A5.18 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 09.00-09.50",
+                    "Ruang": "A2.06 (Ged Baru) --- Lab Laptop"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Jessica Naraiswari Arwidarasti, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 08.00-09.40",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 08.00-08.50",
+                    "Ruang": "A6.11 (Ged Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Arlisa Yuliawati, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 10.00-11.40",
+                    "Ruang": "A1.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 09.00-09.50",
+                    "Ruang": "A2.08 (Ged Baru)"
+                }
+            ]
+        },
+        "D": {
+            "Pengajar": [
+                "Arlisa Yuliawati, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 08.00-09.40",
+                    "Ruang": "A2.06 (Ged Baru) --- Lab Laptop"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 10.00-10.50",
+                    "Ruang": "A2.06 (Ged Baru) --- Lab Laptop"
+                }
+            ]
+        },
+        "E": {
+            "Pengajar": [
+                "Meganingrum Arista Jiwanggi, S.Kom., M.Kom., M.Comp.Sc"
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 08.00-09.40",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 10.00-10.50",
+                    "Ruang": "A6.09 (Ged Baru)"
+                }
+            ]
+        },
+        "F": {
+            "Pengajar": [
+                "Dr. Dinial Utami Nurul Qomariah, S.ST., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "29/08/2023 - 23/12/2023",
+                    "Waktu": "Rabu, 08.00-09.40",
+                    "Ruang": "A2.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "29/08/2023 - 23/12/2023",
+                    "Waktu": "Jumat, 10.00-10.50",
+                    "Ruang": "A6.10 (Ged Baru)"
+                }
+            ]
+        },
+        "G": {
+            "Pengajar": [
+                "Pudy Prima, S.T., M.Kom.",
+                "Jessica Naraiswari Arwidarasti, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 10.00-11.40",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 09.00-09.50",
+                    "Ruang": "A6.08 (Ged Baru)"
+                }
+            ]
+        }
+    },
+    "Kalkulus 1": {
+        "A": {
+            "Pengajar": [
+                "Prof. Drs. T. Basaruddin M.Sc., Ph.D."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 15/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 11.00-11.50",
+                    "Ruang": "A6.08 (Ged Baru)"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Andi Pujo Rahadi, M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 13.00-13.50",
+                    "Ruang": "A6.09 (Ged Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Andi Pujo Rahadi, M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A2.01 (Auditorium Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A2.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 11.00-11.50",
+                    "Ruang": "A6.09 (Ged Baru)"
+                }
+            ]
+        },
+        "D": {
+            "Pengajar": [
+                "Didi Harlianto, M.Si."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A6.10 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A2.07 (Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 11.00-11.50",
+                    "Ruang": "A5.18 (Ged Baru)"
+                }
+            ]
+        },
+        "E": {
+            "Pengajar": [
+                "Arlisa Yuliawati, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A5.03 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A1.08 + A1.09 (Gedung Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 13.00-13.50",
+                    "Ruang": "A5.03 (Ged Baru)"
+                }
+            ]
+        },
+        "F": {
+            "Pengajar": [
+                "Jessica Naraiswari Arwidarasti, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 15/12/2023",
+                    "Waktu": "Selasa, 13.00-14.40",
+                    "Ruang": "A5.18 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 15/12/2023",
+                    "Waktu": "Kamis, 13.00-13.50",
+                    "Ruang": "A5.18 (Ged Baru)"
+                },
+                {
+                    "Periode": "29/08/2023 - 23/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A6.07 (Ged Baru)"
+                }
+            ]
+        },
+        "G": {
+            "Pengajar": [
+                "Arlisa Yuliawati, S.Kom., M.Kom.",
+                "Jessica Naraiswari Arwidarasti, M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Selasa, 10.00-11.40",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 15.00-15.50",
+                    "Ruang": "A6.11 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 11.00-11.50",
+                    "Ruang": "A6.11 (Ged Baru)"
+                }
+            ]
+        }
+    },
+    "PSD": {
+        "A": {
+            "Pengajar": [
+                "Dr. Petrus Mursanto M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 15/12/2023",
+                    "Waktu": "Senin, 13.00-14.40",
+                    "Ruang": "A2.01 (Auditorium Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 10.00-11.40",
+                    "Ruang": "A2.01 (Auditorium Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 14.00-14.50",
+                    "Ruang": "Lab A1.03 (Ged Baru)"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Dr. Ir. Erdefi Rakun M.Sc.",
+                "Arawinda Dinakaramani, S.Kom., M.Hum."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 10.00-11.40",
+                    "Ruang": "A6.07 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 10.00-11.40",
+                    "Ruang": "A6.09 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 14.00-14.50",
+                    "Ruang": "Lab A1.01 + Lab A1.02 [Gabungan](Gd Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Dr. Ir. Erdefi Rakun M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 13.00-14.40",
+                    "Ruang": "A5.18 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 13.00-14.40",
+                    "Ruang": "A2.01 (Auditorium Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 14.00-14.50",
+                    "Ruang": "Lab A1.04 + Lab A3.02 [Gabungan](Gd. Baru)"
+                }
+            ]
+        }
+    },
+    "Kombistek": {
+        "A": {
+            "Pengajar": [
+                "Prof. Dr. Putu Wuri Handayani S.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 10.00-11.40",
+                    "Ruang": "A2.07 (Ged baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 09.00-09.50",
+                    "Ruang": "A2.07 (Ged baru)"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Nilamsari Putri Utami, S.Kom., M.Sc.",
+                "Prof. Dr. Putu Wuri Handayani S.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 13.00-14.40",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 10.00-10.50",
+                    "Ruang": "A6.08 (Ged Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Nilamsari Putri Utami, S.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 10.00-11.40",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 09.00-09.50",
+                    "Ruang": "A2.08 (Ged baru)"
+                }
+            ]
+        },
+        "D": {
+            "Pengajar": [
+                "Widia Resti Fitriani, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Senin, 13.00-14.40",
+                    "Ruang": "A2.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Kamis, 10.00-10.50",
+                    "Ruang": "A5.18 (Ged Baru)"
+                }
+            ]
+        }
+    },
+    "Manbis": {
+        "A": {
+            "Pengajar": [
+                "Fatimah Azzahro, S.Kom., M.Kom., M.Sc."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 15/12/2023",
+                    "Waktu": "Rabu, 08.00-09.40",
+                    "Ruang": "A6.08 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 08.00-08.50",
+                    "Ruang": "A5.03 (Ged Baru)"
+                }
+            ]
+        },
+        "B": {
+            "Pengajar": [
+                "Annisa Monicha Sari, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 08.00-09.40",
+                    "Ruang": "A6.07 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 08.00-08.50",
+                    "Ruang": "A6.10 (Ged Baru)"
+                }
+            ]
+        },
+        "C": {
+            "Pengajar": [
+                "Annisa Monicha Sari, S.Kom., M.Kom."
+            ],
+            "Jadwal": [
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Rabu, 13.00-14.40",
+                    "Ruang": "A6.07 (Ged Baru)"
+                },
+                {
+                    "Periode": "28/08/2023 - 22/12/2023",
+                    "Waktu": "Jumat, 10.00-10.50",
+                    "Ruang": "A6.07 (Ged Baru)"
+                }
+            ]
+        }
+    }
+}

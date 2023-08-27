@@ -1,0 +1,57 @@
+{
+    "type": "bubble",
+    "size": "kilo",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "ERROR",
+            "weight": "bold",
+            "color": "#FFFFFF",
+            "align": "start",
+            "contents": []
+        }
+        ]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "[Pesan Error]",
+            "color": "#FFFFFF",
+            "align": "start",
+            "wrap": true,
+            "contents": []
+        }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+        {
+            "type": "text",
+            "text": "Fasilkom '23 Info ~ ",
+            "size": "sm",
+            "color": "#AAAAAA",
+            "contents": []
+        }
+        ]
+    },
+    "styles": {
+        "header": {
+        "backgroundColor": "#6D0C10"
+        },
+        "body": {
+        "backgroundColor": "#2D2E30"
+        },
+        "footer": {
+        "backgroundColor": "#2D2E30"
+        }
+    }
+}

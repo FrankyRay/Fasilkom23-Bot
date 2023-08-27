@@ -1,0 +1,272 @@
+{
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "NAMA",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+        }
+        ]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "lg",
+        "contents": [
+        {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+            {
+                "type": "text",
+                "text": "INFO:",
+                "weight": "bold"
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "NPM",
+                    "color": "#777777FF"
+                },
+                {
+                    "type": "text",
+                    "text": "23xxxxxxxx",
+                    "wrap": true,
+                    "flex": 3
+                }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "Jurusan",
+                    "color": "#777777FF"
+                },
+                {
+                    "type": "text",
+                    "text": "IK/SI/KKI",
+                    "wrap": true,
+                    "flex": 3
+                }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "PA",
+                    "color": "#777777FF"
+                },
+                {
+                    "type": "text",
+                    "text": "Dr. ---, M. Kom.",
+                    "wrap": true,
+                    "flex": 3
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "none",
+            "contents": [
+            {
+                "type": "text",
+                "text": "KELAS:",
+                "weight": "bold"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#B0D1FFFF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "DDP 1",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#FFB0B0FF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "Matdis",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#B0D1FFFF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "Kalkulus 1",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#FFB0B0FF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5,
+                    "text": "PSD"
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#B0D1FFFF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5,
+                    "text": "Kombistek"
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "none",
+                "paddingStart": "10px",
+                "backgroundColor": "#FFB0B0FF",
+                "borderColor": "#000000FF",
+                "cornerRadius": "none",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "Manbis",
+                    "align": "start",
+                    "gravity": "center",
+                    "contents": [],
+                    "flex": 5
+                },
+                {
+                    "type": "text",
+                    "text": "A",
+                    "weight": "bold",
+                    "size": "3xl",
+                    "contents": []
+                }
+                ],
+                "borderWidth": "1px"
+            }
+            ]
+        }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "Fasilkom '23 Bot ~ /kelas",
+            "size": "sm",
+            "color": "#999999FF"
+        }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "Nama": "Linear Algebra",
+        "Pengajar": [
+            "Prof. Heru Suhartanto M.Sc., Ph.D"
+        ],
+        "Jadwal": [
+            {
+                "Periode": "28/08/2023 - 15/12/2023",
+                "Waktu": "Tuesday, 15.00-16.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Wednesday, 09.00-09.50",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Thursday, 13.00-13.50",
+                "Ruang": "A7.14 (Ged Baru)"
+            }
+        ]
+    },
+    {
+        "Nama": "Prog Found 1",
+        "Pengajar": [
+            "Drs. Lim Yohanes Stefanus M.Math., Ph.D"
+        ],
+        "Jadwal": [
+            {
+                "Periode": "28/08/2023 - 15/12/2023",
+                "Waktu": "Tuesday, 10.00-11.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Thursday, 10.00-11.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Friday, 08.00-09.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            }
+        ]
+    },
+    {
+        "Nama": "Calculus 1",
+        "Pengajar": [
+            "Aruni Yasmin Azizah, S.Kom., M.Comp.Sc"
+        ],
+        "Jadwal": [
+            {
+                "Periode": "28/08/2023 - 15/12/2023",
+                "Waktu": "Monday, 10.00-11.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Wednesday, 11.00-11.50",
+                "Ruang": "A7.14 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Wednesday, 15.00-15.50",
+                "Ruang": "A7.15 (Ged Baru)"
+            }
+        ]
+    },
+    {
+        "Nama": "Discrete Math 1",
+        "Pengajar": [
+            "Ari Saptawijaya S.Kom, M.Sc., Ph.D."
+        ],
+        "Jadwal": [
+            {
+                "Periode": "28/08/2023 - 15/12/2023",
+                "Waktu": "Wednesday, 13.00-14.40",
+                "Ruang": "A7.15 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Friday, 10.00-10.50",
+                "Ruang": "A7.15 (Ged Baru)"
+            }
+        ]
+    },
+    {
+        "Nama": "Introduction to Digital System",
+        "Pengajar": [
+            "Dr. Ir. Erdefi Rakun M.Sc."
+        ],
+        "Jadwal": [
+            {
+                "Periode": "28/08/2023 - 15/12/2023",
+                "Waktu": "Tuesday, 13.00-14.40",
+                "Ruang": "A7.14 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Thursday, 08.00-09.40",
+                "Ruang": "A7.14 (Ged Baru)"
+            },
+            {
+                "Periode": "28/08/2023 - 22/12/2023",
+                "Waktu": "Thursday, 14.00-14.50",
+                "Ruang": "A7.14 (Ged Baru)"
+            }
+        ]
+    }
+]

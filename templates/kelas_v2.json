@@ -1,0 +1,109 @@
+{
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "[NAMA MAHASISWA]",
+            "weight": "bold",
+            "color": "#FFFFFF",
+            "align": "start",
+            "contents": []
+        }
+        ]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+            {
+                "type": "box",
+                "layout": "vertical",
+                "flex": 10,
+                "spacing": "md",
+                "contents": [
+                {
+                    "type": "text",
+                    "text": "[NAMA KELAS]",
+                    "weight": "bold",
+                    "size": "lg",
+                    "color": "#FFFFFF",
+                    "wrap": true,
+                    "contents": []
+                },
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "xs",
+                    "contents": [
+                    {
+                        "type": "text",
+                        "text": "Jadwal",
+                        "color": "#FFFFFF",
+                        "wrap": true,
+                        "contents": []
+                    }
+                    ]
+                },
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "xs",
+                    "contents": [
+                    {
+                        "type": "text",
+                        "text": "Pengajar",
+                        "color": "#FFFFFF",
+                        "wrap": true,
+                        "contents": []
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Z",
+                "weight": "bold",
+                "size": "xxl",
+                "color": "#FFFFFF",
+                "align": "end",
+                "wrap": true,
+                "contents": []
+            }
+            ]
+        }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+        {
+            "type": "text",
+            "text": "Fasilkom '23 Info ~ /kelas",
+            "size": "sm",
+            "color": "#AAAAAA",
+            "contents": []
+        }
+        ]
+    },
+    "styles": {
+        "header": {
+        "backgroundColor": "#2A2A2A"
+        },
+        "body": {
+        "backgroundColor": "#1D1F5E"
+        },
+        "footer": {
+        "backgroundColor": "#2D2E30"
+        }
+    }
+}

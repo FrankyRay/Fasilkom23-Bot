@@ -1,0 +1,56 @@
+{
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "CARI TEMAN",
+            "weight": "bold",
+            "color": "#FFFFFF",
+            "align": "start",
+            "contents": []
+        }
+        ]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+        {
+            "type": "text",
+            "text": "Teman sekelas dalam [NAMA KELAS]:",
+            "color": "#FFFFFF",
+            "align": "start",
+            "wrap": true,
+            "contents": []
+        }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+        {
+            "type": "text",
+            "text": "Fasilkom '23 Info ~ /kelas",
+            "size": "sm",
+            "color": "#AAAAAA",
+            "contents": []
+        }
+        ]
+    },
+    "styles": {
+        "header": {
+        "backgroundColor": "#2A2A2A"
+        },
+        "body": {
+        "backgroundColor": "#2D2E30"
+        },
+        "footer": {
+        "backgroundColor": "#2D2E30"
+        }
+    }
+}
